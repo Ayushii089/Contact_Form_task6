@@ -1,5 +1,5 @@
 # Contact_Form_task6
-# Contact Form with Validation
+Contact Form with Validation
 
 ### 📌 Task
 Build a contact form with **HTML, CSS, JavaScript** including:
